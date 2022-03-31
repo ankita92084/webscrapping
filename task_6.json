@@ -1,0 +1,11 @@
+{
+    "English": 91,
+    "Japanese": 2,
+    "German": 1,
+    "English (United Kingdom)": 1,
+    "English (Australia)": 1,
+    "Russian": 1,
+    "Italian": 1,
+    "Swedish": 1,
+    "Chinese": 1
+}
